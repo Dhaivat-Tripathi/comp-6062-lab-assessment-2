@@ -1,0 +1,34 @@
+/*creating indicator class*/
+.indicator{
+    padding: 40px;
+    margin: 5px 0;
+    text-align: center;
+}
+
+/*creating danger class*/
+.danger{
+    background-color: red;
+}
+
+/*creating warning class*/
+.warning{
+    background-color: yellow;
+}
+
+/*creating safe class*/
+.safe{
+    background-color: green;
+}
+
+/*creating inactive class*/
+.inactive{
+    display: none;
+}
+
+/*styling footer*/
+footer{
+    background-color: #1c73ff;
+    color:  #fff;
+    padding: 40px;
+    margin-top: 40px;
+}
